@@ -35,6 +35,14 @@ Set reminders for the saved content.
 Use the summarization, categorization, and Q&A features to make the most of your saved content.
 
 
+![image](https://github.com/SUMEKAGARWAL/Enigma/assets/62878571/2b680b7c-b8e8-407d-b74a-8ad38d775150)
+
+![image](https://github.com/SUMEKAGARWAL/Enigma/assets/62878571/79204792-65c2-41c8-b3ad-985096b86bd8)
+
+
+
+
+
 **Installation**
 
 Clone the repository and follow the installation instructions in the INSTALL.md file.
